@@ -1,5 +1,5 @@
 package encapsulation;
-class Icici
+class Encapsulation2
 {
 	private int atmpin=1000;
 	public int get_atmpin()
