@@ -1,6 +1,6 @@
 package Exceptionhandling;
 
-public class Sample14 
+public class Printstacktrace1
 {
    static void disp4()
    {
