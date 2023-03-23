@@ -1,5 +1,5 @@
 package encapsulation;
-	class Sample
+	class Encapsulation_atmpin
 	{
 	private int a=23;
 	public int get_a()
