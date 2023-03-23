@@ -1,6 +1,6 @@
 package Exceptionhandling;
 
-public class Sample10 
+public class Nestedtrycatch
 {
 	public static void main(String[] args)
 	{
