@@ -2,7 +2,7 @@ package Collection;
 
 import java.util.ArrayList;
 
-public class Sample4 
+public class Collections4
 {
 	public static void main(String[] args) 
 	{
