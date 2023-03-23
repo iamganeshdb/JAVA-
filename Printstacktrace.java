@@ -1,6 +1,6 @@
 package Exceptionhandling;
 
-public class Sample13 
+public class Printstacktrace
 {
 public static void main(String[] args) 
 {
